@@ -15,3 +15,12 @@ line first, they win. If the CPU jockeys reach the finish line before the user, 
 the game by clicking the ‘j’ key and play again.
 
 My program only has one class called ‘Jockey’ which is used to create 1 jockey object for the user and 3 more jockey objects for the CPU players. All of them have the same constructors. Other than that, all of my functions are in the main program.
+
+<img width="949" alt="game-image" src="https://github.com/mkphung29/horseDerby-game/assets/109439396/a3cc2b63-51e3-471e-85a6-e5a51e1355dc">
+
+
+## Game Play Demo
+
+You can watch a demo of my game using the zip file below:
+
+[Game_Demo.mp4.zip](https://github.com/mkphung29/horseDerby-game/files/12021656/Game_Demo.mp4.zip)
