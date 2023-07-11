@@ -1,3 +1,5 @@
+# Multiplication Math Derby
+
 For my Introduction to Computer Science course, I decided to create an educational game called ‘Multiplication Math Derby’ and 
 it is designed to help kids test their multiplication tables. 
 I chose to create an educational math game because when I was a kid, my parents would have me practice my multiplication 
